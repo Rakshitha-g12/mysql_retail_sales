@@ -266,6 +266,7 @@ This project demonstrates how SQL can be effectively used to:
 * Optimize queries using indexing
 
 👤 Author
+
 RAKSHITHA G
 Aspiring Data Analyst  
 **Retail Sales SQL Project**
